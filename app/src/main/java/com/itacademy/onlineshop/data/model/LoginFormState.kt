@@ -1,4 +1,4 @@
-package com.itacademy.onlineshop.ui.login
+package com.itacademy.onlineshop.data.model
 
 /**
  * Data validation state of the login form.
